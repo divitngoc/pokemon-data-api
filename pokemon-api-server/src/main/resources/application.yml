@@ -1,0 +1,9 @@
+server.port: 8081
+
+# Logging
+logging.level:
+  com.divitbui: DEBUG
+
+pokemon:
+  base-url: https://pokeapi.co
+  pokemon-endpoint: /api/v2/pokemon
